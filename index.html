@@ -16,7 +16,62 @@
       <![endif]-->
 
   </head>
-  <body>
+  <body id="page-top" class="index">
+
+
+     <!--  Carousel - consult the Twitter Bootstrap docs at 
+      http://twitter.github.com/bootstrap/javascript.html#carousel -->
+    <div id="this-carousel-id" class="carousel slide"><!-- class of slide for animation -->
+      <div class="carousel-inner">
+        <div class="item active">
+          <div class="center">
+            <img src="images/kids-stuck.jpg" alt="" />
+          </div>
+          <div class="carousel-caption">
+            <p>Google "Kids Stuck"</p>
+          </div>
+        </div>
+        <div class="item">
+          <div class="center">
+            <img src="images/kids-stuck1.jpg" alt="" />
+          </div>
+          <div class="carousel-caption">
+            <p>They Get Stuck in Toilets</p>
+          </div>
+        </div>
+        <div class="item">
+          <div>
+            <img src="images/kids-stuck2.jpg" alt="" />
+          </div>
+          <div class="carousel-caption">
+            <p>And in vending machines..</p>
+          </div>
+        </div>
+          <div class="item">
+            <div class="center">
+              <img src="images/kids-stuck3.jpg" alt="" />
+            </div>
+            <div class="carousel-caption">
+              <p>and in pool chairs</p>
+            </div>
+          </div>
+      </div><!-- /.carousel-inner -->
+      <!--  Next and Previous controls below
+            href values must reference the id for this carousel -->
+        <a class="carousel-control left" href="#this-carousel-id" data-slide="prev">&lsaquo;</a>
+        <a class="carousel-control right" href="#this-carousel-id" data-slide="next">&rsaquo;</a>
+    </div><!-- /.carousel -->
+
+    <script>
+      $(document).ready(function(){
+        $('.carousel').carousel();
+      });
+    </script>
+        
+
+
+
+
 
 
     <!-- jQuery -->
@@ -28,5 +83,10 @@
     <!-- Plugin JavaScript -->
     <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
 
+    <!-- Contact Form JavaScript -->
+    <script src="js/jqBootstrapValidation.js"></script>
+    <script src="js/contact_me.js"></script>
 
-  </body>
+    <!-- Custom Theme JavaScript -->
+
+</body>
