@@ -22,3 +22,5 @@ If you get stuck, try these resources:
 **2.** [Tutsplus](http://webdesign.tutsplus.com/articles/twitter-bootstrap-101-the-carousel--webdesign-7442)
 
 **3.** [GetBoostrap Example](http://getbootstrap.com/examples/carousel/)
+
+<a href='https://learn.co/lessons/hs-intro-web-design-bootstrap-carousel-code-challenge' data-visibility='hidden'>View this lesson on Learn.co</a>
