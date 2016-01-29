@@ -23,4 +23,4 @@ If you get stuck, try these resources:
 
 **3.** [GetBoostrap Example](http://getbootstrap.com/examples/carousel/)
 
-<a href='https://learn.co/lessons/hs-intro-web-design-bootstrap-carousel-code-challenge' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-intro-web-design-bootstrap-carousel-code-challenge' title='Bootstrap Feature: Image Carousel'>Bootstrap Feature: Image Carousel</a> on Learn.co and start learning to code for free.</p>
